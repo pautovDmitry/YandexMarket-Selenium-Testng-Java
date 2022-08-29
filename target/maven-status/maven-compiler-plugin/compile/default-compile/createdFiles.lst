@@ -1,0 +1,11 @@
+constants\Constants$Urls.class
+pages\computers_page\ComputersPage.class
+pages\market_yandex_page\MarketYandexPage.class
+constants\Constants$Price.class
+pages\base\BasePage.class
+common\CommonActions.class
+pages\base\BasePage$1.class
+common\Config.class
+constants\Constants$TimeoutVariable.class
+constants\Constants.class
+pages\notebooks_page\NotebooksPage.class
